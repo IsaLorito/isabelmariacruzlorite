@@ -1,6 +1,6 @@
 {
-  "label": "Perfil Académico",
-  "position": 1,
+  "label": "Perfil Científico",
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "Manually annotated documents in search of potentially unfair clauses."
