@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[718],{9305:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/isabelmariacrulorite/blog/tags/facebook","allTagsPath":"/isabelmariacrulorite/blog/tags","count":1,"unlisted":false}')}}]);
