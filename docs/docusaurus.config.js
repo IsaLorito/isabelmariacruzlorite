@@ -73,9 +73,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Web personal de Isabel Maria Cruz Lorite',
+        title: 'Isabel Maria Cruz Lorite',
         logo: {
-          alt: 'Web personal de Isabel Maria Cruz Lorite',
+          alt: 'Isabel Maria Cruz Lorite',
           src: 'img/logo.svg',
         },
         items: [
