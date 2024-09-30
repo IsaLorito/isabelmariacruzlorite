@@ -79,17 +79,23 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'docsSidebar',
+          //   position: 'left',
+          //   label: 'Docs',
+          // },
           {
             type: 'docSidebar',
-            sidebarId: 'docsSidebar',
+            sidebarId: 'perfil_academico',
             position: 'left',
-            label: 'Docs',
+            label: 'Perfil Académico',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'perfil',
+            sidebarId: 'perfil_cientifico',
             position: 'left',
-            label: 'Perfil Académico',
+            label: 'Perfil Científico',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
