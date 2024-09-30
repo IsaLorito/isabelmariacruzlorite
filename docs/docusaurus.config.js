@@ -87,7 +87,7 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'formacionSidebar',
+            sidebarId: 'formacion',
             position: 'left',
             label: 'Formación',
           },
