@@ -16,7 +16,7 @@ const config = {
   url: 'https://cruzlorite.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tos-unfair-clauses/',
+  baseUrl: '/isabelmariacrulorite/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ToS Unfair Clauses',
+        title: 'Web personal de Isabel Maria Cruz Lorite',
         logo: {
-          alt: 'ToS Unfair Claues Logo',
+          alt: 'Web personal de Isabel Maria Cruz Lorite',
           src: 'img/logo.svg',
         },
         items: [
