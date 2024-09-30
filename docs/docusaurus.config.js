@@ -87,7 +87,7 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'formacion',
+            sidebarId: 'perfil',
             position: 'left',
             label: 'Perfil Académico',
           },
