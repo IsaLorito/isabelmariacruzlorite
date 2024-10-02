@@ -6,4 +6,4 @@ sidebar_position: 1
 
 Página web personal de Isabel María Cruz Lorite
 
-![Isabel María Cruz Lorite](http://docs/docs/Perfil.jpg)
+![Isabel María Cruz Lorite](isabelmariacruzlorite/docs/docs/Perfil.jpg)
