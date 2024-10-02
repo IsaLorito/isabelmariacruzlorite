@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
+import Link from 'https://pure.unic.ac.cy/en/persons/isabel-mar%C3%ADa-cruz-lorite';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
