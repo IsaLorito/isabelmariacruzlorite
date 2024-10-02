@@ -27,7 +27,7 @@ Mi perfil científico se ha desarrollado de forma exclusiva en el área de Didá
 - Cabello-Garrido, A., Cebrián-Robles, D., Cruz-Lorite, I. M., González-García, F. J. y España-Ramos, E. (2021). El actual modelo de producción y consumo de carne como una cuestión socialmente viva. Experiencias en la formación inicial del profesorado. En D. Cebrián-Robles, A.J. Franco-Mariscal, T. Lupión-Cobos, C. Acebal-Expósito y Á. Blanco-López (Coords.), *Enseñanza de las ciencias y problemas relevantes de la ciudadanía. Transferencia al aula* (pp. 273-287). Graó.
 - Cabello-Garrido, A., Cruz-Lorite, I. M., España-Naveira, P., Cebrián-Robles, D., González-García, F.J., España-Ramos, E. y Blanco-López, Á. (2021). Uso de la cartografía de controversias para analizar la pandemia de la COVID-19. En A. M. Abril, Á. Blanco-López y A.J. Franco-Mariscal (Coords.), *Enseñanza de las ciencias en tiempos de COVID-19. De la investigación didáctica al aula* (pp. 21-33). Graó.
 
-# Comunicaciones y pósteres en congresos
+## Comunicaciones y pósteres en congresos
 
 - Cabello-Garrido, A., Cruz-Lorite, I. M., Cebrián-Robles, D., Ramos-Solano, A., España-Naveira, P., España-Ramos, E., González-García, F. J. y Simonneaux, L. (2024). El uso del glifosato como cuestión socialmente viva. En *31 Encuentros de Didáctica de las Ciencias Experimentales*. Burgos, España.
 - Ruiz-González, C., Cruz-Lorite, I. M. y Blanco-López, A. (2024). Puntos de vista de estudiantes de secundaria de 14-16 años sobre la desextinción. En *31 Encuentros de Didáctica de las Ciencias Experimentales*. Burgos, España.
