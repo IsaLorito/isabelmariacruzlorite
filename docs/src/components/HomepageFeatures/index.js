@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Formación académica',
-    Png: require('@site/static/img/formacion.png').default,
+    Svg: require('@site/static/img/formacion.svg').default,
     description: (
       <>
         Mi formación académica comenzó en las ciencias experimentales y
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Experiencia investigadora',
-    Png: require('@site/static/img/investigacion.png').default,
+    Svg: require('@site/static/img/investigacion.svg').default,
     description: (
       <>
         Mi experiencia investigadora se ha desarrollado en el área de la
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Experiencia docente',
-    Png: require('@site/static/img/docencia.png').default,
+    Svg: require('@site/static/img/docencia.svg').default,
     description: (
       <>
         Mi experiencia docente es en diferentes asignaturas propias del
