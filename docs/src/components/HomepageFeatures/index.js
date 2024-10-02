@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/formacion.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Mi formación académica comenzó en las ciencias experimentales y
+        evolucionó hacia las ciencias de la educación.
       </>
     ),
   },
@@ -18,8 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/investigacion.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Mi experiencia investigadora se ha desarrollado en el área de la
+        Didáctica de las Ciencias Experimentales.
       </>
     ),
   },
@@ -28,8 +28,8 @@ const FeatureList = [
     Svg: require('@site/static/img/docencia.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Mi experiencia docente es en diferentes asignaturas propias del
+        área de Didáctica de las Ciencias Experimentales en Grado y Máster.
       </>
     ),
   },
