@@ -30,17 +30,17 @@ Mi tesis doctoral se titula _«Argumentación y conciencia ambiental de profesor
 
 ## Cursos/seminarios/talleres de especialización
 
-- **Curso «Itinerario formativo en análisis de datos. Nivel avanzado».** Universidad de Málaga, 2023.
-- **Curso «Itinerario formativo en análisis de datos. Nivel intermedio 2».** Universidad de Málaga, 2023.
-- **Curso «Itinerario formativo en análisis de datos. Nivel intermedio 1».** Universidad de Málaga, 2023.
-- **Curso «Itinerario formativo en análisis de datos. Nivel introductorio».** Universidad de Málaga, 2023.
-- **Workshop Doctoral de la EDFES «La comunicación de los resultados de investigación. Cómo realizar presentaciones académicas visuales y eficaces».** Formación y Escuela de Doctorado de la Federación Española de Sociología, 2023.
-- **Curso «Introducción a la investigación cualitativa en Ciencias Sociales».** Universidad de Málaga, 2022.
-- **Curso «Cómo publicar en inglés en revistas de calidad».** Universidad de Málaga, 2022.
-- **Curso «Cómo escribir y publicar en revistas científicas, paso a paso: ejemplos, casos prácticos y recursos».** Universidad de Málaga, 2021.
-- **Seminario «Perfil digital del investigador en la sociedad del conocimiento».** Universidad de Málaga, 2020.
-- **Curso «Operacionalización de variables y análisis de datos en ciencias sociales».** Universidad de Málaga, 2020.
-- **Curso «Observación y análisis cualitativo con Atlas.ti».** Universidad de Málaga, 2020.
-- **Seminario «Análisis cualitativo de datos multimedia con el software NVivo 12».** Universidad de Málaga, 2019.
-- **Curso «Estadística Descriptiva Aplicada a las Ciencias de la Educación y la Economía».** Universidad de Málaga, 2018.
-- **Curso «Recursos de Información Especializada».** Universidad de Cádiz, 2013.
+- Curso «Itinerario formativo en análisis de datos. Nivel avanzado». Universidad de Málaga, 2023.
+- Curso «Itinerario formativo en análisis de datos. Nivel intermedio 2». Universidad de Málaga, 2023.
+- Curso «Itinerario formativo en análisis de datos. Nivel intermedio 1». Universidad de Málaga, 2023.
+- Curso «Itinerario formativo en análisis de datos. Nivel introductorio». Universidad de Málaga, 2023.
+- Workshop Doctoral de la EDFES «La comunicación de los resultados de investigación. Cómo realizar presentaciones académicas visuales y eficaces».** Formación y Escuela de Doctorado de la Federación Española de Sociología, 2023.
+- Curso «Introducción a la investigación cualitativa en Ciencias Sociales». Universidad de Málaga, 2022.
+- Curso «Cómo publicar en inglés en revistas de calidad». Universidad de Málaga, 2022.
+- Curso «Cómo escribir y publicar en revistas científicas, paso a paso: ejemplos, casos prácticos y recursos». Universidad de Málaga, 2021.
+- Seminario «Perfil digital del investigador en la sociedad del conocimiento». Universidad de Málaga, 2020.
+- Curso «Operacionalización de variables y análisis de datos en ciencias sociales». Universidad de Málaga, 2020.
+- Curso «Observación y análisis cualitativo con Atlas.ti». Universidad de Málaga, 2020.
+- Seminario «Análisis cualitativo de datos multimedia con el software NVivo 12». Universidad de Málaga, 2019.
+- Curso «Estadística Descriptiva Aplicada a las Ciencias de la Educación y la Economía». Universidad de Málaga, 2018.
+- Curso «Recursos de Información Especializada». Universidad de Cádiz, 2013.
