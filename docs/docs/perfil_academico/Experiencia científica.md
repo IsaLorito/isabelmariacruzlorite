@@ -101,6 +101,6 @@ Mi perfil científico se ha desarrollado de forma exclusiva en el área de Didá
 - Vocal del comité organizador de las *Jornadas Año Internacional de la Tabla Periódica*. 2019.
 - Miembro del comité organizador del *III Seminario Internacional ENCIC. La Educación Científica ante los problemas relevantes para la ciudadanía. Prácticas científicas y activismo apoyados con TIC*. 2018.
 
-## Revisora de artículos científicos
+## Revisión de artículos científicos
 
 - Revisión de un artículo científico para la revista *Humanities & Social Sciences* de SpringerNature.
