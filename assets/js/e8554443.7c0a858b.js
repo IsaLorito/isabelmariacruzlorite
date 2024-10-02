@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5981],{7105:a=>{a.exports=JSON.parse('{"label":"educaci\xf3n","permalink":"/isabelmariacruzlorite/blog/tags/educacion","allTagsPath":"/isabelmariacruzlorite/blog/tags","count":1,"unlisted":false}')}}]);

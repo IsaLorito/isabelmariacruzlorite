@@ -29,9 +29,9 @@
             <name>Isabel María Cruz Lorite</name>
             <uri>https://github.com/IsaLorito</uri>
         </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="educación" term="educación"/>
+        <category label="ciencia" term="ciencia"/>
+        <category label="medioambiente" term="medioambiente"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>

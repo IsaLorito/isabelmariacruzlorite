@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9222],{6371:e=>{e.exports=JSON.parse('{"label":"medioambiente","permalink":"/isabelmariacruzlorite/blog/tags/medioambiente","allTagsPath":"/isabelmariacruzlorite/blog/tags","count":1,"unlisted":false}')}}]);

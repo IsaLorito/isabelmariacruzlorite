@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6143],{5188:a=>{a.exports=JSON.parse('{"label":"ciencia","permalink":"/isabelmariacruzlorite/blog/tags/ciencia","allTagsPath":"/isabelmariacruzlorite/blog/tags","count":1,"unlisted":false}')}}]);
