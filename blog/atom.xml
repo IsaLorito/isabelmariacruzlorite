@@ -26,10 +26,6 @@
 <p>The blog supports tags as well!</p>
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
             <name>Isabel María Cruz Lorite</name>
             <uri>https://github.com/IsaLorito</uri>
         </author>
