@@ -6,10 +6,6 @@ sidebar_position: 2
 
 Mi perfil científico se ha desarrollado de forma exclusiva en el área de Didáctica de las Ciencias Experimentales desde antes incluso de finalizar mis estudios de Grado, ya que durante los mismos pude optar a varias becas con las que realicé prácticas de formación en el área de Didáctica de las Ciencias Experimentales de la Universidad de Cádiz y en las que pude colaborar en diferentes tareas de investigación y publicaciones.
 
-# Experiencia científica
-
-Mi perfil científico se ha desarrollado de forma exclusiva en el área de Didáctica de las Ciencias Experimentales desde antes incluso de finalizar mis estudios de Grado, ya que durante los mismos pude optar a varias becas con las que realicé prácticas de formación en el área de Didáctica de las Ciencias Experimentales de la Universidad de Cádiz y en las que pude colaborar en diferentes tareas de investigación y publicaciones.
-
 ## Artículos en revistas
 
 - Cruz-Lorite, I. M., Cebrián-Robles, D., Acebal-Expósito, M. C. y Blanco-López, A. (2023). *Preservice primary teachers’ positions on nuclear power before and after a role play*. Journal of Turkish Science Education, 20(3), 379-398. [https://doi.org/10.36681/tused.2023.022](https://doi.org/10.36681/tused.2023.022)
