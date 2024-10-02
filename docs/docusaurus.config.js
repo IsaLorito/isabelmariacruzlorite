@@ -97,24 +97,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Inicio',
             items: [
               {
-                label: 'Docs',
+                label: 'Inicio',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Perfiles personales',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/isalorito/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/profile.php?id=100069341285469',
               },
               {
                 label: 'Twitter',
@@ -123,15 +123,23 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Perfiles profesionales',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+               {
+                label: 'ORCID',
+                href: 'https://orcid.org/my-orcid?orcid=0000-0002-6099-134X',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Pure - UNIC',
+                href: 'https://pure.unic.ac.cy/en/persons/isabel-mar%C3%ADa-cruz-lorite',
+              },
+              {
+                label: 'Research Gate',
+                href: 'https://www.researchgate.net/profile/Isabel-Maria-Cruz-Lorite',
+              },
+              {
+                label: 'Google Scholar',
+                href: 'https://scholar.google.es/citations?user=2WYXuEQAAAAJ&hl=en',
               },
             ],
           },
